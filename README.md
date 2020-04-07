@@ -47,19 +47,25 @@ Discerning crisis response data from Figure Eight's labeled data, then inserting
 ## File Descriptions
 
 #### app
-run.py - used to run web application
-masster.html - helps launch app on
-go.html -helps launch app
+*run.py* - used to run web application
+
+*masster.html* - helps launch app on
+
+*go.html* -helps launch app
 
 #### data
-process_data.py - used to perform ETL on data
-disaster_messages.csv - structured messsage data from Figure Eight
-disaster_categories.csv - structured category/label data from Figure Eight
-NLP.db - created database pos ETL
+*process_data.py* - used to perform ETL on data
+
+*disaster_messages.csv* - structured messsage data from Figure Eight
+
+*disaster_categories.csv* - structured category/label data from Figure Eight
+
+*NLP.db* - created database pos ETL
 
 #### models
-train_classifier.py - used to perform NLP on created database and produce model
-modelxgboost.pkl - produced model used in web application
+*train_classifier.py* - used to perform NLP on created database and produce model
+
+*modelxgboost.pkl* - produced model used in web application
 
 
 ## Issues
