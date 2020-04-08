@@ -74,7 +74,7 @@ too little clean data came through in NLP.db only a little more than 40% of the 
 
 ## Results
 
-A functioning web app, but poor model resulted in subpar classifications even with tuning (reason: lack of data)
+A functioning web app, but poor model resulted in subpar classifications even with tuning (reason: lack of data, hence imbalance)
 
 
 ## Acknowledgements
