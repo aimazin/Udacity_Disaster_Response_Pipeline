@@ -55,7 +55,7 @@ Discerning crisis response data from Figure Eight's labeled data, then inserting
 #### app
 *run.py* - used to run web application
 
-*masster.html* - helps launch app on
+*master.html* - helps launch app on
 
 *go.html* -helps launch app
 
