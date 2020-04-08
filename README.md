@@ -23,8 +23,7 @@ app.tar.gz: - run.py, master.html in templates folder
 
 data.tar.gz: - process_data.py, disaster_messages.csv
              , disaster_categories.csv
-             
-             - NLP.db
+             , NLP.db
 
 models.tar.gz: - train_classifier.py, modelxgboost.pkl
                
