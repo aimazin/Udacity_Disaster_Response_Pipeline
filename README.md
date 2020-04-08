@@ -19,15 +19,21 @@ Second Project of Udacity's Data Scientist Nanodegree
 ## Table of Contents
 
 app.tar.gz: - run.py
+
             - master.html in templates folder
+            
             - go.html in templates folder
 
 data.tar.gz: - process_data.py
+
              - disaster_messages.csv
+             
              - disaster_categories.csv
+             
              - NLP.db
 
 models.tar.gz: - train_classifier.py
+
                - modelxgboost.pkl
                
                
@@ -35,7 +41,7 @@ models.tar.gz: - train_classifier.py
 
 install latest version of python version 3.8 and a Programming developer IDE
 
-also pip install xgboost in IDE for the model
+also `pip install xgboost` in IDE for the model
 
 
 ## Project Motivation
